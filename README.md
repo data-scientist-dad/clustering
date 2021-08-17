@@ -1,2 +1,2 @@
 # clustering
-Examples of clustering used in models.
+Examples of clustering used in models.  
